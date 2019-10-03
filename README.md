@@ -1,3 +1,2 @@
 # firstplc
-
-A project to for coding plc in structure text.
+A codesys PLC project in structure text.
